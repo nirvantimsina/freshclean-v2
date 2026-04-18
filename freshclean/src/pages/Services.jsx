@@ -4,8 +4,8 @@ const SERVICES = [
   {
     icon: '🔑', title: 'End of Lease / Bond Cleaning', tag: 'MOST POPULAR',
     tagColor: '#e0f7fb', tagText: '#007fa3', dark: false, featured: true,
-    desc: 'Our 100% Bond Back Guarantee service. We follow a strict real estate checklist to ensure your property is ready for the next tenant without any fuss.',
-    features: ['Full bond-back guarantee', '72-point checklist', 'Same-day availability', 'Agent-approved report'],
+    desc: 'We follow a strict real estate checklist to ensure your property is ready for the next tenant without any fuss.',
+    features: ['72-point checklist', 'Same-day availability', 'Agent-approved report'],
   },
   {
     icon: '🏠', title: 'Regular Home Cleaning', tag: null, dark: false,
