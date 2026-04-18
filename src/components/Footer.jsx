@@ -74,7 +74,7 @@ export default function Footer() {
                 {["Facebook", "Instagram", "LinkedIn"].map((s) => (
                   <a
                     key={s}
-                    href="#"
+                    href="#!"
                     style={{
                       fontSize: 12,
                       fontWeight: 600,
